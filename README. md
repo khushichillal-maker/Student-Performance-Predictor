@@ -18,3 +18,13 @@ Python, Pandas, Numpy, Matplotlib, Seaborn
 1.  Clone this repo
 2.  Open notebooks in Google Colab or Jupyter
 3.  Make sure `StudentsPerformance.csv` is in the same folder
+
+## How to Predict Marks
+1.  Open `model_training.ipynb` in Google Colab or Jupyter
+2.  Run all cells
+3.  In the last cell, change `hours = 6` and `gender = 1` to your values
+    - `gender = 1` for Female, `gender = 0` for Male
+4.  Run the last cell and it will predict your marks!
+
+Example: `hours = 8, gender = 0` → Predicted Marks = ~82.50
+
