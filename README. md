@@ -1,0 +1,20 @@
+# Student Performance Predictor
+
+## Project Description
+This project analyzes the `StudentsPerformance.csv` dataset to understand what factors affect student academic performance. 
+We use Python for data cleaning, EDA, and visualization.
+
+## Notebooks
+1.  `Student-Performance-Predictor.ipynb` - Initial setup and data loading
+2.  `data_cleaning_eda.ipynb` - Data cleaning + EDA with graphs: Study Hours vs Marks, Gender vs Marks
+
+## Dataset
+`StudentsPerformance.csv` - Contains student details like Hours_Studied, Gender, Marks
+
+## Tech Stack
+Python, Pandas, Numpy, Matplotlib, Seaborn
+
+## How to Run
+1.  Clone this repo
+2.  Open notebooks in Google Colab or Jupyter
+3.  Make sure `StudentsPerformance.csv` is in the same folder
